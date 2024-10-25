@@ -70,7 +70,7 @@
 			                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
 			                    <i class="fa fa-bars"></i>
 			                </button>
-			                <a class="navbar-brand" href="index.html">bala</a>
+			                <a class="navbar-brand" href="index.html">Bala</a>
 			            </div><!--/.navbar-header-->
 			            <!-- End Header Navigation -->
 
@@ -103,7 +103,7 @@
 				<div class="row">
 					<div class="col-md-12 text-center">
 						<div class="header-text">
-							<h2>hi <span>,</span> i am <br> bala <br> Gangadhar <span>.</span>   </h2>
+							<h2>hi <span>,</span> i am <br> Bala <br> Gangadhar <span>.</span>   </h2>
 							<p>DevOps Engineer and Backend Developer</p>
 							<a href="assets/download/BalaDevOpsEngineer.pdf" download>download resume</a>
 						</div><!--/.header-text-->
@@ -140,7 +140,7 @@
 									<div class="col-sm-4">
 										<div class="single-about-add-info">
 											<h3>email</h3>
-											<p>bala@info.com</p>
+											<p>Bala@info.com</p>
 										</div>
 									</div>
 									<div class="col-sm-4">
@@ -873,7 +873,7 @@
 							<div class="single-contact-box">
 								<div class="contact-adress">
 									<div class="contact-add-head">
-										<h3>bala Gangadhar</h3>
+										<h3>Bala Gangadhar</h3>
 										<p>uI/uX designer</p>
 									</div>
 									<div class="contact-add-info">
@@ -883,7 +883,7 @@
 										</div>
 										<div class="single-contact-add-info">
 											<h3>email</h3>
-											<p>bala@info.com</p>
+											<p>Bala@info.com</p>
 										</div>
 										<div class="single-contact-add-info">
 											<h3>website</h3>
